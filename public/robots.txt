@@ -1,0 +1,40 @@
+# https://agents.glide2.app/robots.txt
+# NeuroForge — Research Platform for AI Agent Behavior
+# Part of Glide2 Labs
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://agents.glide2.app/sitemap.xml
+
+# AI Search Bots — Welcome
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+# LLMs.txt for AI-readable site info
+# See https://agents.glide2.app/llms.txt
